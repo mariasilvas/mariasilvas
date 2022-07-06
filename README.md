@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Maria 👋
 
-<!--
-**mariasilvas/mariasilvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduated in Nutrition and Gastronomy, I worked in these areas for about ten years. I'm currently in a career transition to technology and the Quality Assurance area chose me.
 
-Here are some ideas to get you started:
+These are the technologies I'm currently studying:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Testing tools:
+Cypress | Selenium IDE | Postman + Newman
+
+💻 Logic and Programming:
+HTML | CSS | JavaScript 
+
+💻 Project management:
+Jira | Trello | TestLink
+
+💻 SQL
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariasilvas&layout=compact&theme=dracula)
+
+<div>  
+
+<a href="https://www.linkedin.com/in/mariasilva-qaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href = "mailto:mariasilva.qaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div> 
